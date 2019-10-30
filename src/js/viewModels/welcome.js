@@ -55,7 +55,7 @@ define(['ojs/ojcore', 'knockout', 'jquery', 'appController', 'config/appconfig',
                       }
                     }
                     else{
-                        self.loginComplete();
+                        alert("Coming Soon. [--Login Disabled--]");
                     }
                 }
 
